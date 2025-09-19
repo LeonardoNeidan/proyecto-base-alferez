@@ -1,4 +1,4 @@
-from clases.operaciones import  Calculadora 
+from clases.avanzadas import  Calculadora 
 
 def main():
     numero = float(input("Ingresa un número para sacar su raíz cuadrada: "))
